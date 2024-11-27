@@ -22,7 +22,7 @@ Este repositório demonstra como criar uma integração com a OpenAI API para im
 
 ## 📄 **Licensa** 
 
-Este repositório está sobre a Licensa MIT, você tem total liberdade para utilizá-lo, edita-lo. é ultiliza-lo para fins empresárias. Verifique a Licensa para mais informações.
+Este repositório está sobre a Licensa MIT, você tem total liberdade para utilizá-lo, edita-lo. é ultiliza-lo para outro fins. Verifique a Licensa para mais informações.
 
 ---
 
