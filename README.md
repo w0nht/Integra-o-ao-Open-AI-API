@@ -30,7 +30,7 @@ Este repositório demonstra como criar uma integração com a OpenAI API para im
 │   ├── barra.js    # Lógica de interação da barra lateral
 │   ├── style.css   # Estilos do frontend
 │   └── script.js   # Lógica de interação com o chat
-└── README.md       # Documentação do projeto
+└── README.md       # Documentação do projeto```
 
 ---
 
