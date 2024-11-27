@@ -16,7 +16,6 @@ Este repositório demonstra como criar uma integração com a OpenAI API para im
 ## 🚀 **Tecnologias Utilizadas**
 
 - **[OpenAI API](https://platform.openai.com/):** Modelo de linguagem avançado usado como base do sistema de chat.  
-- **Node.js:** Backend para gerenciar as requisições e a lógica da aplicação.   
 - **Frontend (HTML, CSS e JS):** Interface simples para interagir com o chat.  
 
 ---
